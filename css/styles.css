@@ -188,11 +188,11 @@ background-size: cover;
 .list-aspects .list {
   width: 270px;
 }
-.list-aspects .list::before{
+/* .list-aspects .list::before{
   display: block;
   content: " ";
   height: 120px;
-}
+} */
 
 .features {
   padding-top: 94px;
